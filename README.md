@@ -173,9 +173,3 @@ $ cd react-native-easy-gestures
 $ npm install
 $ react-native run-ios
 ```
-
-# TODO
-
-- [ ] Rotate step, ex: every 90deg
-- [ ] Guidelines and center snap
-
